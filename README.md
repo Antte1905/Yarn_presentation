@@ -1,2 +1,2 @@
-# Hi! I'm Belisarius, I work with python lua, and a little with other language. 
+# Hi! I'm Belisarius, I work with C++ and python, and a little with other language. 
 
