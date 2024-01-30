@@ -1,2 +1,2 @@
-# Hi! I'm Belisarius, I work with C++ and python, and a little with some other language. 
+# Hi! I'm Yarn, I work with C++ and python on embedded system, may the omnissiah guide you!
 
